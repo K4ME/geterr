@@ -1,5 +1,44 @@
-## turn the project to light mode
+# Geterr
 
-## aplly dark mode
+<p align="center">
+  Project developed to get messages error with most accurately 🚀
+</p>
 
-https://tailwindcss.com/docs/dark-mode
+## 👀 Images
+
+<p align="center">
+  <img alt="feedback tips" src="./prints/erro-white.png" width="360"/>
+  <img alt="getting error" src="./prints/erro-dark.png" width="360"/>
+</p>
+
+<br/>
+<p align="center">
+  <img alt="feedback tips" src="./prints/Agradecemos-white.png" width="360"/>
+  <img alt="getting error" src="./prints/Agradecemos-dark.png" width="360"/>
+</p>
+
+## 🚀 Technologies
+
+- [ReactJS](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vitejs](https://vitejs.dev/)
+- [Express](https://expressjs.com/)
+
+## 💻 Getting started
+
+First, clone de project:
+
+    git clone git@github.com:K4ME/feedget-web.git
+
+Install the dependencies
+
+    npm install
+
+Run the code
+
+    npm run dev
+
+<p align="center">
+  Made with 💜 by <a href="https://www.linkedin.com/in/guilhermemacrini/">Guilherme Macrini</a>
+</p>
