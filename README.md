@@ -21,7 +21,6 @@
 
 - [ReactJS](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [TypeScript](https://www.typescriptlang.org/)
 - [Vitejs](https://vitejs.dev/)
 - [Express](https://expressjs.com/)
 
@@ -29,7 +28,7 @@
 
 First, clone de project:
 
-    git clone git@github.com:K4ME/feedget-web.git
+    git clone git@github.com:K4ME/geterr.git
 
 Install the dependencies
 
